@@ -91,4 +91,5 @@ setViewport('width=device-width, initial-scale=1.0');
 setTitle('My website title');
 setFavicon('https://example.com/favicon.ico');
 author('My website author');
-setVersion('1.0.0'); */
+setVersion('1.0.0');
+And so on, and so on... */
