@@ -1,4 +1,4 @@
-function setDiscription(description){ {
+function setDiscription(description) {
   var metaDescription = document.createElement('meta');
   metaDescription.name = 'description';
   metaDescription.content = description;
